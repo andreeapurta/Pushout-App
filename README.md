@@ -1,3 +1,3 @@
-#### Extejsion methods algorithms 
+#### Extesion methods algorithms 
 
-Info in laboratory_pdf.
+Info in laboratory.pdf.
